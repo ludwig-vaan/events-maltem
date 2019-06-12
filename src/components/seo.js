@@ -17,6 +17,7 @@ function SEO({ description, lang, meta, title }) {
         site {
           siteMetadata {
             title
+            enterprise
             description
             author
           }
